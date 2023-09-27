@@ -19,8 +19,16 @@ A site dedicated to improving interactivity of Dungeons & Dragons players and Du
       6. Character Sheet Library
       7. Homebrew Library
       8. Over 18 content
-  7. History of the Game
-  8. Group Finder
+  6.  Explorers Hall (Through the Realms)
+      1. 
+  8. History of the Game
+      1. early history
+           (chainmail and other early ttrpgs.)
+      2. The Age of ThAC0
+      3. The Golden Years
+      4. The period we don't talk about
+      5. Revival, Popularization and Stranger Things.
+  9. Group Finder
      a. availability calendar
      b. game styles
      c. dm tinder
@@ -34,3 +42,5 @@ A site dedicated to improving interactivity of Dungeons & Dragons players and Du
       e. player perks/rewards
   12. Player Resources
       a. Guild Halls
+      b. Clan Camps
+      c. player type/personality profile/class finder
