@@ -29,18 +29,18 @@ A site dedicated to improving interactivity of Dungeons & Dragons players and Du
       4. The period we don't talk about
       5. Revival, Popularization and Stranger Things.
   9. Group Finder
-     a. availability calendar
-     b. game styles
-     c. dm tinder
-     d. player history
-     e. charachter vault
+     1. availability calendar
+     2. game styles
+     3. dm tinder
+     4. player history
+     5. charachter vault
   10. DM Resources
-      a. DM's rules
-      b. player contract
-      c. campaign summaries
-      d. game day previews
-      e. player perks/rewards
+      1. DM's rules
+      2. player contract
+      3. campaign summaries
+      4. game day previews
+      5. player perks/rewards
   12. Player Resources
-      a. Guild Halls
-      b. Clan Camps
-      c. player type/personality profile/class finder
+      1. Guild Halls
+      2. Clan Camps
+      3. player type/personality profile/class finder
