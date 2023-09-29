@@ -7,18 +7,18 @@ A site dedicated to improving interactivity of Dungeons & Dragons players and Du
   2. marketplace
   3. forums
   4. D&D related news
-     a. releases
-     b. cons/special events
+     1. releases
+     2. cons/special events
   5.  Library
-      a. 1st Ed
-      b. 2nd Ed
-      c. 3rd Ed
-      d. 3.5th ed
-      e. 4th ed
-      f. 5th ed
-      6. Character Sheet Library
-      7. Homebrew Library
-      8. Over 18 content
+      1. 1st Ed
+      2. 2nd Ed
+      3. 3rd Ed
+      4. 3.5th ed
+      5. 4th ed
+      6. 5th ed
+      7. Character Sheet Library
+      8. Homebrew Library
+      9. Over 18 content
   6.  Explorers Hall (Through the Realms)
       1. 
   8. History of the Game
