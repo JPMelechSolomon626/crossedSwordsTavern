@@ -49,5 +49,15 @@ Sign Up
         4. Gaming Store or Organization
         5. Academic Organization (unbilled)
 
+Types of Commercial Accounts
+Type 1 PUblisher Account
+    This account is held by orginzations such as Wizards of the Coast or Sword and Sorcery (White Wolf) who commercial produce Dungeons and Dragons or Dungeons and Dragons Supplemental books.  They are authorized to post ACTUAL pdf copies of books resources that they hold copyright on and challenge posts that contain uncredited content from their materials.
+Type 2 Gaming Accessories.  
+    This account is held by companies that produce gaming accessories such as dice, miniature and gaming materials. They are allowed to post adverts in the market place as well as tutorials, written and video, of their products. they will not be allowed to challenge or censure content posted by users who are demonstrating their artistic skills using said products.
+Type 3. Convention or Event accounts
+    this account is self explanitory.  They will be authorized to post in the forums and marketplace on matters related solely to their event.  They will have not ability to challenge content by competitors unless said competitors are in violation of laws in the AHJ.
+Type 4. Academic Accounts
+    Limited use accounts that are able to post in the forums and Schola.  The Schola will serve as a repository for these accounts to post their organization documents such as constitutions/charters, bylaws, agendas or other meeting announcements.
+
 
     
