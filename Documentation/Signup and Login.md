@@ -23,4 +23,31 @@ Their will be 4 types of accounts
         a. A paid account held by a corporation, publisher or company for the sole purpose of generating traffic to their websites.
         b. No access to chat room.
         c. may challenge content based on copyright possession
-        d. ``
+
+Sign Up
+    General Account
+    1. profile Id (uuid)
+    2. user name (unique)
+    3. Legal Name
+    4. email
+    5. hash
+    7. age verified
+    8. billing address
+    9. 2FV
+    10. Moderator Priviledges
+    Commercial Account
+    1. profile id (uuid)
+    2. user Name (same as company name)
+    3. company Name
+    4. Authorized representative name
+    5. Contact Email
+    6. Billing Information
+    7. Type of company (priviledges vary by type of comp)
+        1. Convention or Event (type 3)
+        2. Publisher (type 1)
+        3 Gaming Accessories (Type 2)
+        4. Gaming Store or Organization
+        5. Academic Organization (unbilled)
+
+
+    
