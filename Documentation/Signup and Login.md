@@ -57,7 +57,7 @@ Type 2 Gaming Accessories.
 Type 3. Convention or Event accounts
     this account is self explanitory.  They will be authorized to post in the forums and marketplace on matters related solely to their event.  They will have not ability to challenge content by competitors unless said competitors are in violation of laws in the AHJ.
 Type 4. Academic Accounts
-    Limited use accounts that are able to post in the forums and Schola.  The Schola will serve as a repository for these accounts to post their organization documents such as constitutions/charters, bylaws, agendas or other meeting announcements.
+    Limited use accounts that are able to post in the forums and Schola.  The Schola will serve as a repository for these accounts to post their organization documents such as constitutions/charters, bylaws, agendas or other meeting announcements. This account is provided as a service and is unbilled.
 
 
     
